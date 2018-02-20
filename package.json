@@ -1,0 +1,28 @@
+{
+  "name": "timestamp-microservice",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padunk/Timestamp-Microservice.git"
+  },
+  "description": "Timestamp Microservice Challenge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/padunk/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/padunk/Timestamp-Microservice#readme",
+  "version": "1.0.0",
+  "keywords": [
+    "express"
+  ],
+  "author": "Abraham Anak Agung"
+}

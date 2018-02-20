@@ -1,0 +1,30 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #ECF0F1;
+}
+
+.container-fluid {
+	padding: 0;
+	margin-top: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.example {
+  margin-left: 40px;
+}
+
+.footer {
+  margin-top: 50px;
+  text-align: center;
+}
+
+a {
+  margin: auto 5px;
+}

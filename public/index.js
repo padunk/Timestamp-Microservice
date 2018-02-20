@@ -4,6 +4,7 @@
 module.exports = function (app) {
   app.get('/:dateVal', function (req, res) {
     var dateVal = req.params.dateVal;
+    var decode = decodeURIComponent(dateVal);
     var result = {
       "unix": null,
       "natural": null
